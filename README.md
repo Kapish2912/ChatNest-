@@ -7,7 +7,7 @@ ChatNest is a real-time chat application that allows users to sign up, log in, a
 ✅ Real-Time Messaging: Users can send and receive messages instantly when online
 ✅ Chat Container: Displays active conversations in a user-friendly interface
 ✅ Online Status: Messages are delivered only when the recipient is online
-✅ Theme Customization: Users can change the theme from the settings page
+✅ Theme Customization: Users can change the theme from the settings page accordingly
 
 🛠️ Tech Stack
 Frontend: React.js / HTML, CSS, JavaScript
